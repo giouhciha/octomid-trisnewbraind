@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tentáculos (detrás del cuerpo) -->
+    <path
+        android:pathData="M38,62 C36,70 33,73 36,80"
+        android:strokeColor="#2FAE8C"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M47,65 C45,74 42,78 45,84"
+        android:strokeColor="#2FAE8C"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,66 C54,75 50,79 53,85"
+        android:strokeColor="#35B995"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M61,65 C63,74 66,78 63,84"
+        android:strokeColor="#2FAE8C"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M70,62 C72,70 75,73 72,80"
+        android:strokeColor="#2FAE8C"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Cabeza / cuerpo -->
+    <path
+        android:pathData="M32,56 C32,39 42,30 54,30 C66,30 76,39 76,56 C76,62 71,66 65,66 L43,66 C37,66 32,62 32,56 Z"
+        android:fillColor="#46CBA6"
+        android:strokeColor="#1E8A70"
+        android:strokeWidth="2.5" />
+
+    <!-- Mejillas -->
+    <path
+        android:pathData="M36,58 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0"
+        android:fillColor="#B3FF9FB4" />
+    <path
+        android:pathData="M72,58 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0"
+        android:fillColor="#B3FF9FB4" />
+
+    <!-- Ojos -->
+    <path
+        android:pathData="M45,50 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M63,50 m-8,0 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Pupilas -->
+    <path
+        android:pathData="M45,51 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0"
+        android:fillColor="#2E2E38" />
+    <path
+        android:pathData="M63,51 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0"
+        android:fillColor="#2E2E38" />
+
+    <!-- Brillo de los ojos -->
+    <path
+        android:pathData="M47.5,48 m-1.8,0 a1.8,1.8 0 1,0 3.6,0 a1.8,1.8 0 1,0 -3.6,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M65.5,48 m-1.8,0 a1.8,1.8 0 1,0 3.6,0 a1.8,1.8 0 1,0 -3.6,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Boca -->
+    <path
+        android:pathData="M49,58 Q54,62.5 59,58"
+        android:strokeColor="#1E8A70"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Trébol de la suerte (4 hojas + tallo) -->
+    <path
+        android:pathData="M66,28 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFC93C"
+        android:strokeColor="#E0A800"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M72,32 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFC93C"
+        android:strokeColor="#E0A800"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M66,36 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFC93C"
+        android:strokeColor="#E0A800"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M60,32 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFC93C"
+        android:strokeColor="#E0A800"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M66,38 L65,44"
+        android:strokeColor="#E0A800"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+</vector>

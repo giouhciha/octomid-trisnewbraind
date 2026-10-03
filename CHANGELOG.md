@@ -4,6 +4,12 @@ Todas las versiones relevantes de **Tris Brain**. El formato sigue
 [Keep a Changelog](https://keepachangelog.com/es/1.1.0/) y el versionado
 semántico (`MAYOR.MENOR.PARCHE`).
 
+## [0.1.1] - 2026-10-02
+
+### Añadido
+- Icono adaptativo de la app: pulpo kawaii de la suerte con trébol dorado,
+  en vectorial (fondo con degradado y versión monocroma para temas).
+
 ## [0.1.0] - 2026-10-02
 
 ### Añadido
